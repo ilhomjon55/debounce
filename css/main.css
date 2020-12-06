@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 *,
 *::before,
@@ -38,4 +39,10 @@ START STYLING
 
 .nav-list__item {
   margin-right: 15px;
+}
+
+main section h2 {
+  margin: 0;
+  color: antiquewhite;
+  padding-top: 70px;
 }
