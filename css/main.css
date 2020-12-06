@@ -35,3 +35,7 @@ img {
 /* ++++++++++++++++++++++
 START STYLING
 +++++++++++++++++++++++ */
+
+.nav-list__item {
+  margin-right: 15px;
+}
