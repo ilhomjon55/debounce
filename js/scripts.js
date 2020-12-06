@@ -1,3 +1,4 @@
+var sections = $__('section');
 
 
 var logScrollEvent = debounce(function(evt) {
