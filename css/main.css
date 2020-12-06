@@ -44,5 +44,6 @@ START STYLING
 main section h2 {
   margin: 0;
   color: antiquewhite;
-  padding-top: 70px;
+  padding-top: 200px;
+  text-align: center;
 }
